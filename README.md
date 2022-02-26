@@ -1,5 +1,5 @@
 # Zanvok Assistant
-    Zanvok Assistant is an open source virtual assistant for PCs, made in Python...
+Zanvok Assistant is an open-source virtual assistant made in Python for PCs
 
 ## What's new in Version 12.4.0 ?
 
