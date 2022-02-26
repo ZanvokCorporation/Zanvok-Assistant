@@ -35,8 +35,8 @@ import win32com.client as wincl
 from urllib.request import urlopen
 
 
-print("Zanvok Assistant 12.3.5")
-print("Assistant for x64 based PCs")
+print("Zanvok Assistant 12.4.0")
+print("Assistant for PCs")
 print("Zanvok Corp @ 2021")
 
 assistanttype = input("Please Select any one: \n \t 1.Zanvok Assistant Mike \n \t 2.Zanvok Assistant Annie \n \t 3.Zanvok Assistant Chloe \n : ")
