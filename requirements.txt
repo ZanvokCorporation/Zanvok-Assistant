@@ -1,0 +1,16 @@
+pyttsx3
+speechRecognition
+wikipedia
+requests
+wolframalpha
+pyttsx3
+tk
+speechrecognition
+winshell
+pyjokes
+feedparser
+requests
+twilio
+clint
+BeautifulSoup4
+pyaudio
